@@ -1,1 +1,1 @@
-script add execute and read command
+multiple permissions
