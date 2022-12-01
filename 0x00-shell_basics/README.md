@@ -1,1 +1,1 @@
-deletes files that end with special character
+create multiple directories
