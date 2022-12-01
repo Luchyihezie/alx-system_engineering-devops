@@ -1,1 +1,1 @@
-moving uppercase files
+deletes files that end with special character
