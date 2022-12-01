@@ -1,1 +1,1 @@
-similar permission for two files
+permission for directories
