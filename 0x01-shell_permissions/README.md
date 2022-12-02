@@ -1,1 +1,1 @@
-symbolic link
+only if from a specific file
