@@ -1,1 +1,1 @@
-count lines with same pattern
+additional 3 lines to pattern lines
