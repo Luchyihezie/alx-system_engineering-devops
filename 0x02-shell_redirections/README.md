@@ -1,1 +1,1 @@
-unique output
+finding pattern
