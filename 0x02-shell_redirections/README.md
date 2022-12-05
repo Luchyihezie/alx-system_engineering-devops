@@ -1,1 +1,1 @@
-deleting foles with same extension
+display content of two files 
