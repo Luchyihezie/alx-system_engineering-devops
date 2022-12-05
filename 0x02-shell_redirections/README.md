@@ -1,1 +1,1 @@
-additional 3 lines to pattern lines
+ignore files with bin
