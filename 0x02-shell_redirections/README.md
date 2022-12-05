@@ -1,1 +1,1 @@
-duplicating last line
+deleting foles with same extension
