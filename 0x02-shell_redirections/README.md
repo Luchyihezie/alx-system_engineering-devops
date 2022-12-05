@@ -1,1 +1,1 @@
-ignore files with bin
+letters only
