@@ -1,1 +1,1 @@
-translate
+remove c and C
