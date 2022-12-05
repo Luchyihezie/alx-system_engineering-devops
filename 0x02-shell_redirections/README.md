@@ -1,1 +1,1 @@
-print the last 10 lines 
+first 10lines
