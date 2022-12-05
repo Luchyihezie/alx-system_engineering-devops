@@ -1,1 +1,1 @@
-confused smiley
+empty directories
