@@ -1,1 +1,1 @@
-finding pattern
+count lines with same pattern
