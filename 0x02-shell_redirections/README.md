@@ -1,1 +1,1 @@
-remove c and C
+reverse string
