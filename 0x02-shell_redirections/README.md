@@ -1,1 +1,1 @@
-parses web server
+first letter spells out a word
